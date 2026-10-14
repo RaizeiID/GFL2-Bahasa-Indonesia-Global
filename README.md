@@ -3,6 +3,9 @@
 Github Ini Berisikan Paket Bahasa Indonesia.
 Paket teks bahasa Indonesia untuk **GFL2 Global PC Windows**, snapshot 14 Oktober 2026. Mod ini memakai slot bahasa **Thai/Thailand**.
 
+> [!WARNING]
+> ❗ **Perhatian, Penggunaan Bahasa Indonesia Termasuk Modifikasi, Meski Aman Digunakan Tetapi Tetap Ada Resiko Terkena BAN**
+
 [**Unduh LangPackageTableThthData.bytes**](https://raw.githubusercontent.com/RaizeiID/GFL2-Bahasa-Indonesia-Global-/refs/heads/main/LangPackageTableThthData.bytes)
 
 ## Cara memasang
