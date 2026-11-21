@@ -1,12 +1,12 @@
 # GFL2 Exilium Bahasa Indonesia — Global
 
 Github Ini Berisikan Paket Bahasa Indonesia.
-Paket teks bahasa Indonesia untuk **GFL2 Global PC Windows**, snapshot 14 Oktober 2026. Mod ini memakai slot bahasa **Thai/Thailand**.
+Paket teks bahasa Indonesia untuk **GFL2 Global PC Windows**, snapshot 21 November 2026, build Steam `26075816`. Mod ini memakai slot bahasa **Thai/Thailand**.
 
 > [!WARNING]
 > ❗ **Perhatian, Penggunaan Bahasa Indonesia Termasuk Modifikasi, Meski Aman Digunakan Tetapi Tetap Ada Resiko Terkena BAN**
 
-[**Unduh LangPackageTableThthData.bytes**](https://raw.githubusercontent.com/RaizeiID/GFL2-Bahasa-Indonesia-Global-/refs/heads/main/LangPackageTableThthData.bytes)
+[**Unduh LangPackageTableThthData.bytes**](https://raw.githubusercontent.com/RaizeiID/GFL2-Bahasa-Indonesia-Global/main/LangPackageTableThthData.bytes)
 
 ## Cara memasang
 
@@ -27,7 +27,7 @@ Gunakan pada baseline Global yang cocok. Update game dapat mengganti mod; periks
 
 ```text
 LangPackageTableEnusData.bytes
-D1C7474EE93234C13CBF079A21CDE9637E83DC14971208A64C9F9EF365EFB8DC
+B3ABBF8498158D0D970527C98A00DF68D388E9710F3161F30E2C0192E160D74C
 ```
 
 Untuk mengembalikan bahasa bawaan, tutup game lalu pulihkan file backup dari versi game yang sama.
